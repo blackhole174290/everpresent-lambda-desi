@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite it as below."
+title: "Testing Everpresent Lambda (Model 1) with DESI DR2 BAO, supernovae and CMB"
+authors:
+  - family-names: "Natsume"
+    given-names: "Yoshifumi"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: MIT
+keywords:
+  - cosmology
+  - cosmological constant
+  - everpresent lambda
+  - causal set
+  - DESI
+  - BAO
